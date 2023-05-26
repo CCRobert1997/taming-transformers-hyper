@@ -1,3 +1,4 @@
+# Based on Taming Transformers for High-Resolution Image Synthesis Hyperbolic VQVAE version
 # Taming Transformers for High-Resolution Image Synthesis
 ##### CVPR 2021 (Oral)
 ![teaser](assets/mountain.jpeg)
